@@ -350,6 +350,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/coffee-script-source-1.12.2/lib" />
       </SOURCES>
     </library>
+    <library name="colored (v1.2, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/colored-1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/colored-1.2/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.5, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/concurrent-ruby-1.0.5/lib" />
@@ -884,6 +892,16 @@
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/minitest-spec-rails-5.4.0/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/minitest-spec-rails-5.4.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="mixpanel-ruby (v2.2.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/mixpanel-ruby-2.2.0/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/mixpanel-ruby-2.2.0/demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/mixpanel-ruby-2.2.0/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/mixpanel-ruby-2.2.0/demo" />
       </SOURCES>
     </library>
     <library name="momentjs-rails (v2.17.1, ruby-2.3.4-p301) [gem]">
