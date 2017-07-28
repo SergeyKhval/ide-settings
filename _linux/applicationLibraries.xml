@@ -1688,6 +1688,16 @@
         <root url="file:///var/lib/gems/2.3.0/gems/uglifier-3.1.7/lib" />
       </SOURCES>
     </library>
+    <library name="ultrahook (v0.1.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/ultrahook-0.1.4/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ultrahook-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/ultrahook-0.1.4/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/ultrahook-0.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="underscore-rails (v1.8.3, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/underscore-rails-1.8.3/lib" />
