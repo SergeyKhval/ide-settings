@@ -1434,6 +1434,18 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rake-0.9.6/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v11.0.1, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-11.0.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-11.0.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-11.0.1/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-11.0.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-11.0.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-11.0.1/rakelib" />
+      </SOURCES>
+    </library>
     <library name="rake (v12.0.0, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rake-12.0.0/bin" />
@@ -1498,6 +1510,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-2.99.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.6.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v2.99.2, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.99.2/exe" />
@@ -1510,6 +1530,16 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.99.2/features" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.6.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-3.6.0/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-3.6.0/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v2.99.2, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-2.99.2/lib" />
@@ -1520,6 +1550,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-2.99.2/features" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.6.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-mocks (v2.99.4, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-2.99.4/lib" />
@@ -1528,6 +1566,22 @@
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-2.99.4/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-2.99.4/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.6.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-support (v3.6.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-support-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-support-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.47.1, ruby-2.3.4-p301) [gem]">
