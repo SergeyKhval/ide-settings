@@ -990,6 +990,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/mongoid-tree-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="mongoid_optimistic_locking (v0.0.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/mongoid_optimistic_locking-0.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/mongoid_optimistic_locking-0.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="mongoid_paranoia (v0.2.1, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/mongoid_paranoia-0.2.1/lib" />
