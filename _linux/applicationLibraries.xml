@@ -186,6 +186,18 @@
         <root url="file:///var/lib/gems/2.3.0/gems/bson-4.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="bson (v4.2.2, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.2.2" />
+        <root url="file:///var/lib/gems/2.3.0/gems/bson-4.2.2/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/bson-4.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.2.2" />
+        <root url="file:///var/lib/gems/2.3.0/gems/bson-4.2.2/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/bson-4.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.3, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/builder-3.2.3/lib" />
@@ -450,6 +462,18 @@
         <root url="file:///var/lib/gems/2.3.0/gems/devise-4.2.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="diff-lcs (v1.3, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/diff-lcs-1.3/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/diff-lcs-1.3/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/diff-lcs-1.3/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/diff-lcs-1.3/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/diff-lcs-1.3/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/diff-lcs-1.3/autotest" />
+      </SOURCES>
+    </library>
     <library name="docile (v1.1.5, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/docile-1.1.5/lib" />
@@ -684,6 +708,16 @@
         <root url="file:///var/lib/gems/2.3.0/gems/i18n-0.8.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v0.8.6, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/i18n-0.8.6/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/i18n-0.8.6/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/i18n-0.8.6/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/i18n-0.8.6/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="intercom-rails (v0.3.4, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/intercom-rails-0.3.4/lib" />
@@ -866,6 +900,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/minitest-5.10.1/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.10.3, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/minitest-5.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/minitest-5.10.3/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest-spec-rails (v5.4.0, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/minitest-spec-rails-5.4.0/lib" />
@@ -904,6 +946,16 @@
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/mongo-2.4.1/bin" />
         <root url="file:///var/lib/gems/2.3.0/gems/mongo-2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mongo (v2.4.3, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/mongo-2.4.3/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/mongo-2.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/mongo-2.4.3/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/mongo-2.4.3/lib" />
       </SOURCES>
     </library>
     <library name="mongoid (v5.0.2, ruby-2.3.4-p301) [gem]">
@@ -1296,6 +1348,16 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rainbow-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v0.9.6, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-0.9.6/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-0.9.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-0.9.6/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rake-0.9.6/lib" />
+      </SOURCES>
+    </library>
     <library name="rake (v12.0.0, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rake-12.0.0/bin" />
@@ -1350,6 +1412,46 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/responders-1.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v2.99.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-2.99.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-2.99.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v2.99.2, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.99.2/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.99.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.99.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.99.2/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.99.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-core-2.99.2/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v2.99.2, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-2.99.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-2.99.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-2.99.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-expectations-2.99.2/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v2.99.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-2.99.4/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-2.99.4/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-2.99.4/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/rspec-mocks-2.99.4/features" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.47.1, ruby-2.3.4-p301) [gem]">
@@ -1666,6 +1768,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/tzinfo-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.3, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/tzinfo-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/tzinfo-1.2.3/lib" />
       </SOURCES>
     </library>
     <library name="uglifier (v3.1.7, ruby-2.3.4-p301) [gem]">
