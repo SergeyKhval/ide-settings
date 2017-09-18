@@ -188,12 +188,10 @@
     </library>
     <library name="bson (v4.2.2, ruby-2.3.4-p301) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.2.2" />
         <root url="file:///var/lib/gems/2.3.0/gems/bson-4.2.2/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/bson-4.2.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bson/4.2.2" />
         <root url="file:///var/lib/gems/2.3.0/gems/bson-4.2.2/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/bson-4.2.2/lib" />
       </SOURCES>
@@ -1078,8 +1076,20 @@
         <root url="file:///var/lib/gems/2.3.0/gems/net-ssh-4.1.0/support" />
       </SOURCES>
     </library>
+    <library name="node-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_node_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_node_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="nokogiri (v1.7.0.1, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.0.1" />
         <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/bin" />
         <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/lib" />
@@ -1088,6 +1098,7 @@
         <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.0.1" />
         <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/bin" />
         <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/ext" />
         <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.7.0.1/lib" />
