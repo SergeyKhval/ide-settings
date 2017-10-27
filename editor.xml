@@ -10,4 +10,12 @@
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="question" pattern="\b@Igor\b.*" />
+    <filter name="Igor">
+      <pattern index="2" />
+    </filter>
+  </component>
 </application>
