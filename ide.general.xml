@@ -7,5 +7,6 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="ide.completion.lookup.element.preselect.depends.on.context" value="false" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
