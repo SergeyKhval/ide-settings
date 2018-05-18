@@ -6,6 +6,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".setup-firebaserc" type="PLAIN_TEXT" />
       <mapping ext="njk" type="PLAIN_TEXT" />
+      <mapping ext="edge" type="PLAIN_TEXT" />
       <mapping ext="rabl" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
     </extensionMap>
