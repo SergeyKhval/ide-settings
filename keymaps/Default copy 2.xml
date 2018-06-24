@@ -4,6 +4,7 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="GotoAction" />
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
   </action>
@@ -14,6 +15,9 @@
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="ctrl alt t" />
     <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="SurroundWithEmmet">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
   <action id="Uml.ShowDiff" />
 </keymap>
