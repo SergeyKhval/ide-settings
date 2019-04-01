@@ -4,7 +4,11 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
+  <action id="EditorUnSelectWord" />
   <action id="GotoAction" />
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
