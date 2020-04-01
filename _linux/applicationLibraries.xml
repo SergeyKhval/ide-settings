@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/jest" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="actionmailer (v4.1.4, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/actionmailer-4.1.4/lib" />
