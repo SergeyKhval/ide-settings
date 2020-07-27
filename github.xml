@@ -3,6 +3,9 @@
     <account id="180110ac-6534-40b0-a5d8-c6b85c684925" name="SergeyKhval">
       <server useHttp="false" host="github.com" />
     </account>
+    <account id="19c12edd-01eb-4cf3-910f-22052e51271f" name="SergeyKhval">
+      <server host="github.com" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="SergeyKhval" />
