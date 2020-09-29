@@ -6,6 +6,7 @@
       <mapping pattern="cut" type="PLAIN_TEXT" />
       <mapping pattern="presentation-header" type="PLAIN_TEXT" />
       <mapping pattern="фываыфваыа" type="PLAIN_TEXT" />
+      <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="edge" type="PLAIN_TEXT" />
       <mapping ext="rabl" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
