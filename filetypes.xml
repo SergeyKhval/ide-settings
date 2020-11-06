@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".setup-firebaserc" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="cut" type="PLAIN_TEXT" />
