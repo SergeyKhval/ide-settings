@@ -5,4 +5,11 @@
   <action id="Git.CreateNewBranch">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="Github.PullRequest.Diff.Comment.Create" />
+  <action id="Github.View.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
 </keymap>
