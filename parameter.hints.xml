@@ -3,6 +3,7 @@
     <disabledLanguages>
       <language id="TypeScript" />
       <language id="Vue" />
+      <language id="JavaScript" />
     </disabledLanguages>
   </component>
 </application>
