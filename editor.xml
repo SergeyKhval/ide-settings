@@ -1,6 +1,7 @@
 <application>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value="js.type.hints" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
