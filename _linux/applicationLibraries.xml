@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="twitch-ext" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_extension-files.twitch.tv_helper_v1_twitch-ext.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_extension-files.twitch.tv_helper_v1_twitch-ext.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
