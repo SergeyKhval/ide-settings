@@ -20,6 +20,7 @@
       <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="svg" approved="true" type="XML" />
+      <removed_mapping pattern=".mjmlconfig" approved="true" type="JSON" />
       <mapping ext="njk" type="Twig" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
